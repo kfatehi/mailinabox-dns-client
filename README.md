@@ -1,6 +1,8 @@
 mailinabox-dns-client
 ==================
 
+[![NPM](https://nodei.co/npm/mailinabox-dns-client.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/mailinabox-dns-client/)
+
 Manage your DNS records from node.js
 
 ## Usage
