@@ -1,0 +1,23 @@
+{
+  "name": "mailinabox-dns-client",
+  "version": "1.0.0",
+  "description": "add or remove Mailinabox DNS records from node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keyvanfatehi/mailinabox-dns-client.git"
+  },
+  "keywords": [
+    "mailinabox",
+    "dns"
+  ],
+  "author": "Keyvan Fatehi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyvanfatehi/mailinabox-dns-client/issues"
+  },
+  "homepage": "https://github.com/keyvanfatehi/mailinabox-dns-client"
+}

@@ -1,15 +1,3 @@
-mailinabox-dns-client
-==================
-
-Manage your DNS records from node.js
-
-## Usage
-
-`npm install --save mailinabox-dns-client`
-
-## test.js
-
-```js
 var client = require('./')({
   host: process.env.MBHOST,
   email: process.env.MBUSER,
@@ -39,4 +27,3 @@ client.deleteRecord('foobar.pillbox.io', 'CNAME', function (err) {
   if (err) throw err;
   else console.log('done')
 })
-```
